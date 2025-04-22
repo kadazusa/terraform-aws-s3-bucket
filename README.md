@@ -18,7 +18,9 @@ cd terraform-aws-s3-bucket
 
 ### 2. Inisialize Terraform
 
-`terraform init`
+```
+terraform init
+```
 
 ### 3. Edit terraform.tfvars
 
@@ -37,4 +39,6 @@ Check the outputs for the created bucket name
 
 ### 6. Destroy the resources
 
-`terraform destroy`
+```
+terraform destroy
+```
