@@ -12,7 +12,7 @@ This repository provides a Terraform module to create an S3 bucket on AWS.
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/terraform-aws-s3-bucket.git
+git clone https://github.com/kadazusa/terraform-aws-s3-bucket.git
 cd terraform-aws-s3-bucket
 ```
 
